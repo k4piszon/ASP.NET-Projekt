@@ -25,6 +25,6 @@ Baza Danych została zamknięta w pliku aspnet-Company-20201202021111.mdf
 Email: xena2021@int.pl
 Haslo: Inzynier2020!
 
--Użytkownik
+- Użytkownik
 Email: user@int.pl  
 Haslo: User1!
