@@ -15,11 +15,11 @@ Z profilu Admina:
 - Możliwość dodania rejestru dostaw z pliku excel
 - Wysyłanie maili 
 
-#Instrukcje
+# Instrukcje
 Do uruchomienia aplikacji wymagana jest instalacja składników Microsoft Sql Serwer oraz .NET 4.8.
 Baza Danych została zamknięta w pliku aspnet-Company-20201202021111.mdf
 
-#Profile do testów
+# Profile do testów
 
 - Admin
 Email: xena2021@int.pl
